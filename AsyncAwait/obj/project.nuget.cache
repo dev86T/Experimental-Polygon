@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "hkCUp2iNMis=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shajb\\RiderProjects\\ExperimentalPolygon\\AsyncAwait\\AsyncAwait.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\system.text.json\\10.0.12\\system.text.json.10.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Text.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\shajb\\RiderProjects\\ExperimentalPolygon\\AsyncAwait\\AsyncAwait.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\shajb\\RiderProjects\\ExperimentalPolygon\\AsyncAwait\\AsyncAwait.csproj",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\shajb\\RiderProjects\\ExperimentalPolygon\\AsyncAwait\\AsyncAwait.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\shajb\\RiderProjects\\ExperimentalPolygon\\AsyncAwait\\AsyncAwait.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

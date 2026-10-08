@@ -1,0 +1,16 @@
+﻿{
+  "Locations": [
+    {
+      "UserId": 1,
+      "Favorite Game": "Prague"
+    },
+    {
+      "UserId": 2,
+      "Favorite Game": "Boston"
+    },
+    {
+      "UserId": 3,
+      "Favorite Game": "Stockholm"
+    }
+  ]
+}

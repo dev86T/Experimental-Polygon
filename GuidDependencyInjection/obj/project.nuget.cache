@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WwSaTJ8krLY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shajb\\RiderProjects\\ExperimentalPolygon\\GuidDependencyInjection\\GuidDependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.12\\microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "C:\\Users\\shajb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.12\\microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

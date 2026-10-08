@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExperimentalPolygon", "ExperimentalPolygon\ExperimentalPolygon.csproj", "{EF1F770E-E821-4C1E-820B-F8A135D03335}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuidDependencyInjection", "GuidDependencyInjection\GuidDependencyInjection.csproj", "{F4A8DACB-7699-4FD6-AE3A-72408DCE5668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{988D8662-06F1-4DE8-B5F4-592B0BC83D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1F770E-E821-4C1E-820B-F8A135D03335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1F770E-E821-4C1E-820B-F8A135D03335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1F770E-E821-4C1E-820B-F8A135D03335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1F770E-E821-4C1E-820B-F8A135D03335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A8DACB-7699-4FD6-AE3A-72408DCE5668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A8DACB-7699-4FD6-AE3A-72408DCE5668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A8DACB-7699-4FD6-AE3A-72408DCE5668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A8DACB-7699-4FD6-AE3A-72408DCE5668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988D8662-06F1-4DE8-B5F4-592B0BC83D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988D8662-06F1-4DE8-B5F4-592B0BC83D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988D8662-06F1-4DE8-B5F4-592B0BC83D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988D8662-06F1-4DE8-B5F4-592B0BC83D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

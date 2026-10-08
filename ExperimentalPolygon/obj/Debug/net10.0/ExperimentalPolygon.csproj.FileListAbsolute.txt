@@ -1,0 +1,14 @@
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\bin\Debug\net10.0\ExperimentalPolygon.exe
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\bin\Debug\net10.0\ExperimentalPolygon.deps.json
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\bin\Debug\net10.0\ExperimentalPolygon.runtimeconfig.json
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\bin\Debug\net10.0\ExperimentalPolygon.dll
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\bin\Debug\net10.0\ExperimentalPolygon.pdb
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.AssemblyInfoInputs.cache
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.AssemblyInfo.cs
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.csproj.CoreCompileInputs.cache
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.dll
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\refint\ExperimentalPolygon.dll
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.pdb
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.genruntimeconfig.cache
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ref\ExperimentalPolygon.dll
