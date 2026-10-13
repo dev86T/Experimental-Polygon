@@ -14,6 +14,17 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
+app.MapGet("data", async (ILogger<Program> logger) =>
+{
+    logger.LogInformation("данные отправились");
+    
+    await Task.Delay(5000);
+    
+    logger.LogInformation("данные получили обратно");
+
+    return "Наши данные";
+});
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

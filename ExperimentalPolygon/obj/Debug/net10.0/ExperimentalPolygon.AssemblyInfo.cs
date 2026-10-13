@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExperimentalPolygon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c72443651540ef8ce6685e80d1c85d10c420c94")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExperimentalPolygon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExperimentalPolygon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

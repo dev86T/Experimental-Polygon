@@ -12,3 +12,4 @@ C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\n
 C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.pdb
 C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.genruntimeconfig.cache
 C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ref\ExperimentalPolygon.dll
+C:\Users\shajb\RiderProjects\ExperimentalPolygon\ExperimentalPolygon\obj\Debug\net10.0\ExperimentalPolygon.sourcelink.json
